@@ -1,0 +1,9 @@
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\bin\Release\AzureFileWatch.exe.config
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\bin\Release\AzureFileWatch.exe
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\bin\Release\AzureFileWatch.pdb
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\obj\Release\AzureFileWatch.csprojAssemblyReference.cache
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\obj\Release\AzureFileWatch.csproj.ResolveComReference.cache
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\obj\Release\AzureFileWatch.csproj.CoreCompileInputs.cache
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\obj\Release\AzureFileWatch.exe
+C:\Users\hiratahideo\Source\Repos\AzureFileWatcher\AzureFileWatch\obj\Release\AzureFileWatch.pdb
